@@ -19,32 +19,33 @@ These assignments cover concepts ranging from database operations to full-stack 
 ---
 
 ## 📂 Repository Structure
+```text
 MEAN-STACK/
 │
 ├── Assignments/
-│ ├── Assignment-01/
-│ │ ├── questions.md
-│ │ └── solutions/
-│ │
-│ ├── Assignment-02/
-│ │ ├── questions.md
-│ │ └── solutions/
-│ │
-│ └── Assignment-03/
-│ ├── questions.md
-│ └── solutions/
+│   ├── Assignment-01/
+│   │   ├── questions.md
+│   │   └── solutions/
+│   │
+│   ├── Assignment-02/
+│   │   ├── questions.md
+│   │   └── solutions/
+│   │
+│   └── Assignment-03/
+│       ├── questions.md
+│       └── solutions/
 │
 ├── MongoDB/
-│ └── crud-operations.js
+│   └── crud-operations.js
 │
 ├── Express/
-│ └── api-examples/
+│   └── api-examples/
 │
 ├── Angular/
-│ └── components/
+│   └── components/
 │
 ├── NodeJS/
-│ └── examples/
+│   └── examples/
 │
 └── README.md
 
