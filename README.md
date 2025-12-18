@@ -48,6 +48,7 @@ MEAN-STACK/
 │   └── examples/
 │
 └── README.md
+```
 
 > 📌 The structure may change or expand as new assignments are added.
 
